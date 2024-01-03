@@ -1,0 +1,9 @@
+[1] Jiang, Y., Ren, G., Liu, B. and Pi, B., 2008. A Study of Electronic Control Unit (ECU) Design and Hybrid Simulation for Motorcycle Engine (No. 2008-01-1736). SAE Technical Paper.
+
+[2] Kashikar, A., Suryawanshi, R., Sonone, N., Thorat, R. and Savant, S., 2021. Development of muffler design and its validation. Applied Acoustics, 180, p.108132. *MUFFLER DESIGN*
+
+[3] Sopnur, S., Mahurkar, V., Kodam, N. and Shinde, O., 2020. Remapping of ECU Engine (KTM 390). International Journal of IC Engines and Gas Turbines, 6(1), pp.15-18. *ECU REMAP*
+
+[4] Aithal, A. and Donakonda, R., 2011. Two Wheeler Engine Control Unit-Development, Challenges and Solutions (No. 2011-28-0003). SAE Technical Paper. *Two Wheeler ECU*
+
+[5] Cox, B.L. and Mutel, C.L., 2018. The environmental and cost performance of current and future motorcycles. Applied Energy, 212, pp.1013-1024.
